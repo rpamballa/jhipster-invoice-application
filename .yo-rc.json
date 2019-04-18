@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "jhipsterInvoiceApplication",
+    "packageName": "io.github.jhipster.invoice.application",
+    "packageFolder": "io/github/jhipster/invoice/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YmUzZjY0ZTAxOWQ0MGRjZjkyZTUzYzc3OTYwZDEzZTg3NzFkZDg0OWFhZjUyOTc5NWMyNjMzNzBmZTMyNTc0YWM2M2E2NzJiYmM5YjE4MDFkZDA3ZDhhMWNmODkyNDQ1ODk5MWQwNzU1NWQzMTNjOWEzNWY4YWUwMTkyZTdiZWM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "rpamballa",
+  "repository-name": "jhipster-invoice-application"
+}
